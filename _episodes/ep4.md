@@ -4,13 +4,13 @@ teaching: 40
 exercises: 10
 questions:
 - What is Zenodo?
-- How to publish data on Zenodo?
-- How publishing on Zenodo will align with FAIR?
+- How to publish your data on Zenodo?
+- How does publishing your data on Zenodo align with FAIR?
 objectives:
 - Illustrate how to FAIRify dataset in the absence of a FAIRification protocol
 keypoints:
 - If you have a data with no FAIRification protocol, you can still make your data FAIR
-- Uploading your data to Zenodo helps FAIRify your data in abscence of community standard
+- Uploading your data to Zenodo helps FAIRify your data even in the abscence of community standards
 ---
 
 In this lesson, You will learn how to FAIRify your data in the absence of a public repository or when the data lacks a FAIRification protocol. You can accomplish this by uploading data to a public repository, which will assist you with the FAIRification process. 
@@ -106,3 +106,13 @@ As we mentioned in RNAseq, data provenance explains how the data is generated. U
 > ![Photo from Zenodo dataset https://zenodo.org/record/6815967#.YuPHE3bMKUl](../fig/Zenodo3.jpg)
 >
 {: .solution}
+
+
+
+> ## Resources
+> - [Zenodo and FAIR principles](https://about.zenodo.org/principles/)
+> - [Uploading data to Zenodo](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/Zenodo)
+> 
+{: .challenge}
+
+
