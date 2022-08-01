@@ -4,20 +4,21 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-This short online course caters for learners working with Life Science data and provides the necessary know-how on how to make this data FAIR.  This course is written in 3 sections, where the first 2 sections provide concise FAIR background and signposting to useful resources.  The final section focuses on practical examples of how to make Life Science data FAIR.
+This short online course caters for learners working with Life Science data and provides the necessary know-how to make your data FAIR.  This course is written in 2 parts, where the first 2 sections provide concise, didatic FAIR background and signposting to useful resources.  The final sections focus on practical examples of how to make Life Science data FAIR and engage in active learning.  
+
+This course makes use of short videos, or **RDMbites**, that have been written to complement learning as part of work funded by **PUT IN UKRI GRANT LINK**
 
 
 > ## You will learn
 > - The FAIR principles and related terms including FAIRification and FAIRness of data.  
 > - The history of FAIR including publications and active FAIR projects in the Life Sciences.
 > - The differences between FAIR and Open data.
-> - Why FAIR is important, giving examples where by not using FAIR, data has been made unusable by others.
+> - Why FAIR is important.
 > - How to make data FAIR through worked examples.
 {: .objectives}
 
 > ## Prerequisites
-> This is a basic course. There is no prior knowledge necessary. Our course contains RDMBites, which are 3-5 minute videos that will assist you grasp the basic concept of 
-> the lesson.
+> This is a basic course. There is no prior knowledge necessary.
 {: .prereq}
 
 > ## For Reviewers
